@@ -27,8 +27,8 @@
 
 - 🔭 I’m currently working on Java Projects.
 - 🌱 I’m currently learning more about BlockChain and Flutter.
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech-related stuff.
+- 🤔 I’m looking for challenging problems.
+- 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: Email -novabolt.kaza@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 10 hours with Computer every day.
@@ -60,8 +60,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/kazamabolt/github-readme-stats"><img alt="kazamabolt 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kazamabolt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/kazamabolt/github-readme-stats"><img alt="kazamabolt 's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazamabolt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/kazamabolt/github-readme-stats"><img alt="kazamabolt 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kazamabolt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/kazamabolt/github-readme-stats"><img alt="kazamabolt 's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazamabolt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/><br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br>
 <br>
