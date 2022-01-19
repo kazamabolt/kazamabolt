@@ -11,6 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: kazamabolt/github-activity-readme@master
+      - uses: kazamabolt/github-activity-readme@main
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
