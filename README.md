@@ -4,22 +4,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vignesh</h1>
 <h3 align="center">I'm a passionate Back-End Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazamabolt&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazamabolt&label=Views&color=blue&style=plastic" alt="kazamabolt" /> </p>
 
 <a href="https://twitter.com/Vignesh41126628">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+  <img align="left" alt="Kazama's Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
 <a href="https://linkedin.com/in/vignesh-baskaran-7621621b2">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+  <img align="left" alt="Kazama's Linkdein" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 <a href="https://github.com/kazamabolt">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://img.icons8.com/color-glass/48/000000/github.png" />
+  <img align="left" alt="Kazama's Github" width="22px" src="https://img.icons8.com/color-glass/48/000000/github.png" />
 </a>
 <a href="https://instagram.com/vicky_the_bolt/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+  <img align="left" alt="Kazama's Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 <a href="https://www.facebook.com/vicky.greyson/">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />
+  <img align="left" alt="Kazama's Facebook" width="22px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />
 </a>
 
 <br/>
