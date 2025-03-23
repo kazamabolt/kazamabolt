@@ -27,7 +27,6 @@
 
 
 - 🔭 I’m currently working on Java Projects.
-- 🌱 I’m currently learning more about BlockChain and Flutter.
 - 🤔 I’m looking for challenging problems.
 - 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: Email -novabolt.kaza@gmail.com
